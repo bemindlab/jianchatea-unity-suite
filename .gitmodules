@@ -1,0 +1,3 @@
+[submodule "apps/roadmap-visual"]
+	path = apps/roadmap-visual
+	url = https://github.com/bemindlab/jiancha-roadmap-visual.git
