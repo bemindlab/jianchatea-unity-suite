@@ -3,18 +3,35 @@
 
 ### Executive Summary
 
-**Total 2-Year Budget:** 53.2M THB ($1.49M USD)  
-**Average Monthly Burn Rate:** 2.22M THB ($62.2K USD)  
-**Peak Team Size:** 22 members (Q2-Q3 2026)  
-**Steady State Team:** 16 members (Q4 2027)  
+**Total Platform Budget:** 53.2M THB ($1.49M USD)  
+**CTO Leadership Investment:** 19.7M THB over 4 years (2025-2029)  
+**Combined Total Investment:** 72.9M THB ($2.04M USD)  
+**Average Monthly Burn Rate:** 2.22M THB ($62.2K USD) + CTO  
+**Peak Team Size:** 22 members + CTO (Q2-Q3 2026)  
+**Steady State Team:** 16 members + CTO (Q4 2027)  
 **Expected ROI from AI Adoption:** 42% productivity gain, 10.1M THB savings  
-**Cost per Module/Feature:** ~992K THB ($27.8K USD) per major component  
+**CTO Performance ROI:** 8.5x return multiple on investment  
 
 ---
 
 ## 1. Team Structure & Sizing
 
-### Core Team (Permanent Positions)
+### Leadership Team - Chief Technology Officer
+
+**CTO Compensation Structure (4-Year Term)**
+| Phase | Duration | Monthly Salary (THB) | Annual Total (THB) | Performance Bonuses |
+|-------|----------|---------------------|-------------------|---------------------|
+| **Advisory Phase** | Oct-Dec 2025 | 100,000 | 300,000 | Architecture + MVP |
+| **Year 1 (2026)** | Full-time | 150,000 | 1,800,000 | 100 Branches: ฿500K |
+| **Year 2 (2027)** | Full-time | 250,000 | 3,000,000 | Break-even: ฿1M |
+| **Year 3 (2028)** | Full-time | 350,000 | 4,200,000 | 500 Franchises: ฿1.5M |
+| **Year 4 (2029)** | Full-time | 450,000 | 5,400,000 | Series A: ฿2M |
+
+**Total CTO Package:** ฿19,700,000 (2025-2029)  
+**Performance Bonuses:** ฿5,000,000 potential  
+**Base Compensation:** ฿14,700,000
+
+### Core Development Team (Permanent Positions)
 
 | Role | Count | Experience Level | Base Salary (THB/month) | Total Monthly Cost |
 |------|-------|------------------|-------------------------|-------------------|
@@ -128,35 +145,53 @@
 5. **Risk Mitigation:** Established best practices for AI-augmented development
 6. **Market Timing:** Optimal window before AI skills become commoditized
 
-### Q1 2026 - Foundation Phase
+### Phase 0: CTO Advisory (Q4 2025)
 **Team Composition:**
-- Core permanent team: 12 members
-- Contract specialists: 4 members
-- Total headcount: 16
+- CTO (Advisory): 1 member  
+- Pre-launch specialists: 4-6 members
+- Total headcount: 5-7
 
 | Cost Category | Monthly (THB) | Quarterly (THB) |
 |---------------|---------------|-----------------|
+| CTO Advisory | 100,000 | 300,000 |
+| Pre-launch Team | 200,000 | 600,000 |
+| Infrastructure Setup | 50,000 | 150,000 |
+| Tools & Licenses | 25,000 | 75,000 |
+| **Total** | **375,000** | **1,125,000** |
+
+### Q1 2026 - Foundation Phase  
+**Team Composition:**
+- CTO (Full-time): 1 member
+- Core permanent team: 12 members
+- Contract specialists: 4 members
+- Total headcount: 17
+
+| Cost Category | Monthly (THB) | Quarterly (THB) |
+|---------------|---------------|-----------------|
+| CTO Salary | 150,000 | 450,000 |
 | Permanent Staff | 1,234,000 | 3,702,000 |
 | Contract Staff | 298,000 | 894,000 |
 | AI Tools | 73,330 | 219,990 |
 | Infrastructure | 49,000 | 147,000 |
 | Training | 35,000 | 105,000 |
-| **Total** | **1,689,330** | **5,067,990** |
+| **Total** | **1,839,330** | **5,517,990** |
 
 ### Q2 2026 - Core Development
 **Team Composition:**
+- CTO (Full-time): 1 member
 - Core permanent team: 17 members
 - Contract specialists: 5 members  
-- Total headcount: 22
+- Total headcount: 23
 
 | Cost Category | Monthly (THB) | Quarterly (THB) |
 |---------------|---------------|-----------------|
+| CTO Salary | 150,000 | 450,000 |
 | Permanent Staff | 1,667,000 | 5,001,000 |
 | Contract Staff | 421,000 | 1,263,000 |
 | AI Tools | 73,330 | 219,990 |
 | Infrastructure | 60,000 | 180,000 |
 | Training | 29,000 | 87,000 |
-| **Total** | **2,250,330** | **6,750,990** |
+| **Total** | **2,400,330** | **7,200,990** |
 
 ### Q3 2026 - Integration Phase
 **Team Composition:**
@@ -346,7 +381,15 @@
 | **Contingency (10%)** | 613,905 | 592,401 | 539,502 | 537,153 | **2,282,961** |
 | **Year 2 Total** | | | | | **25,112,571 THB** |
 
-### **Total 2-Year Investment: 53,037,357 THB ($1,487,149 USD)**
+### **Total Platform Investment: 53,037,357 THB ($1,487,149 USD)**
+### **CTO Leadership Investment: 19,700,000 THB (2025-2029)**  
+### **Combined Investment: 72,737,357 THB ($2,037,149 USD)**
+
+**CTO Value Justification:**
+- Platform Revenue by 2027: ฿168M+
+- ROI Multiple: 8.5x on CTO investment
+- Technical Leadership: 99.99% uptime guarantee
+- Performance-based compensation aligned to milestones
 
 ---
 

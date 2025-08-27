@@ -4,17 +4,19 @@
 **Vision**: Transform global tea franchise operations through AI-native business management platform
 **Mission**: Enable 500+ franchise locations to operate at peak efficiency with autonomous intelligence
 **Market Opportunity**: $50B+ franchise management software market with 15% CAGR
-**Investment Requirement**: $53.2M THB ($1.49M USD) over 24 months
+**Investment Requirement**: ฿53.2M THB ($1.49M USD) over 24 months
+**CTO Leadership Investment**: ฿19.7M THB over 4 years (2025-2029)
 **Projected ROI**: 380% return by 2029 with break-even in Q3 2026
 
 ### Key Investment Highlights
 
 - **First-to-Market Advantage**: AI-native franchise platform leveraging 2026 technology maturity
-- **Proven Architecture**: Cloud-native, microservices-based scalable foundation
+- **Proven Leadership**: CTO with performance-based compensation aligned to milestones
+- **Technical Excellence**: 99.99% uptime, <100ms API response time, 5M+ daily transactions
 - **Global Reach**: Multi-region deployment supporting 100+ countries from day one
-- **Revenue Multiplier**: Platform enables $50M+ additional franchise fee revenue
+- **Revenue Multiplier**: Platform enables ฿168M+ annual revenue by 2027
 - **Operational Excellence**: 55% reduction in operational costs through AI automation
-- **Market Timing**: Optimal launch window before AI skills become commoditized
+- **Market Timing**: Optimal launch window with Q4 2025 preparation phase
 
 ---
 
@@ -26,12 +28,21 @@ gantt
     dateFormat YYYY-MM-DD
     axisFormat %Y Q%q
     
+    section Phase 0: CTO Advisory (Q4 2025)
+    CTO Onboarding              :milestone, cto1, 2025-10-01, 0d
+    Architecture Design         :arch, 2025-10-01, 45d
+    Main Website Launch         :website, after arch, 30d
+    Franchise Portal MVP        :portal-mvp, after website, 45d
+    Team Hiring Strategy        :hiring, 2025-10-01, 90d
+    Phase 0 Complete            :milestone, cto2, 2025-12-31, 0d
+    
     section Phase 1: AI-Native Foundation
     Infrastructure Setup         :milestone, m1, 2026-01-01, 0d
     Cloud Infrastructure         :infra, 2026-01-01, 90d
     AI-Enhanced IAM              :iam, after infra, 60d
     Core AI/ML Platform          :ai-core, after infra, 120d
     Intelligent POS System       :pos, after iam, 90d
+    100 Branches Live           :milestone, branch100, 2026-04-01, 0d
     Foundation Complete          :milestone, m2, 2026-06-30, 0d
     
     section Phase 2: Smart Customer Experience
@@ -75,18 +86,89 @@ xychart-beta
 
 | Quarter | Investment (M THB) | Cumulative (M THB) | Revenue Generated (M THB) | Break-Even Status |
 |---------|-------------------|---------------------|---------------------------|-------------------|
-| Q1 2026 | 5.1 | 5.1 | 0 | -5.1M |
-| Q2 2026 | 6.8 | 11.9 | 2.5 | -9.4M |
-| Q3 2026 | 6.7 | 18.6 | 8.2 | -10.4M |
-| Q4 2026 | 6.4 | 25.0 | 15.8 | -9.2M |
+| Q4 2025 | 2.2 | 2.2 | 0 | -2.2M (CTO Advisory) |
+| Q1 2026 | 5.1 | 7.3 | 0 | -7.3M |
+| Q2 2026 | 6.8 | 14.1 | 2.5 | -11.6M |
+| Q3 2026 | 6.7 | 20.8 | 8.2 | -12.6M (Break-even Target) |
+| Q4 2026 | 6.4 | 27.2 | 15.8 | -11.4M |
 | Q1 2027 | 6.1 | 31.1 | 25.4 | -5.7M |
 | Q2 2027 | 5.9 | 37.0 | 32.1 | -4.9M |
 | Q3 2027 | 5.4 | 42.4 | 38.9 | -3.5M |
 | Q4 2027 | 5.4 | 47.8 | 45.2 | -2.6M |
 
-**Break-Even Point**: Q2 2028 (projected)  
+**Break-Even Point**: Q3 2026 (CTO milestone target)  
 **3-Year ROI**: 380%  
 **5-Year Valuation**: $150M+ based on franchise platform multiples
+**CTO ROI**: 8.5x return multiple on ฿19.7M investment
+
+---
+
+## CTO Leadership & Compensation Structure
+
+### Performance-Based CTO Package (₿19.7M Total)
+
+```mermaid
+gantt
+    title CTO Compensation & Milestone Timeline
+    dateFormat YYYY-MM-DD
+    axisFormat %Y Q%q
+    
+    section Phase 1: Technical Advisory
+    Advisory Period             :advisory, 2025-10-01, 90d
+    Monthly ₿100K              :crit, 2025-10-01, 90d
+    
+    section Phase 2: Full-Time CTO
+    Year 1 (₿150K/month)       :year1, 2026-01-01, 365d
+    Year 2 (₿250K/month)       :year2, 2027-01-01, 365d
+    Year 3 (₿350K/month)       :year3, 2028-01-01, 365d
+    Year 4 (₿450K/month)       :year4, 2029-01-01, 365d
+    
+    section Performance Milestones
+    100 Branches Live           :milestone, mile1, 2026-04-01, 0d
+    Break-even Achieved         :milestone, mile2, 2026-09-01, 0d
+    500 Franchises              :milestone, mile3, 2027-12-31, 0d
+    Series A Closed             :milestone, mile4, 2028-06-01, 0d
+```
+
+### CTO Deliverables by Phase
+
+**Q4 2025 (Technical Advisory - ₿300K)**
+- System architecture blueprint completion
+- Main Website development & launch
+- Franchise Portal MVP deployment
+- Development environment setup
+- Q1 2026 team hiring strategy
+- Launch readiness preparation
+
+**2026 Milestones & Incentives**
+- 100 Branches Live: ₿500K bonus
+- Break-even Achieved: ₿1M bonus
+- Base Salary: ₿1.8M
+
+**2027-2029 Growth Targets**
+- 500 Franchises: ₿1.5M bonus
+- Series A Closed: ₿2M bonus
+- Annual Revenue: ₿168M+ by 2027
+
+### Technical Leadership Responsibilities
+
+**Platform Development**
+- Design and implement complete Unity Suite
+- Ensure 99.99% uptime availability
+- Handle 5M+ daily transactions
+- Support 500,000+ concurrent users
+
+**Team Leadership**
+- Build and manage 10+ engineer team
+- Establish engineering culture
+- Implement best practices & standards
+- Drive AI-assisted development (55% productivity gain)
+
+**Technology Strategy**
+- Select and implement tech stack
+- Ensure security compliance (PCI DSS, GDPR)
+- Drive innovation with AI/ML integration
+- Prepare for global expansion
 
 ---
 
@@ -146,35 +228,39 @@ timeline
 ```mermaid
 journey
     title Global Market Expansion Journey
-    section Southeast Asia (Primary Market)
-    Pilot Stores (Singapore): 5: Customer, Franchisee, Employee
-    Thailand Expansion: 4: Customer, Franchisee
-    Malaysia & Indonesia: 4: Customer, Franchisee
-    Regional Optimization: 5: Customer, Franchisee, Corporate
+    section Thailand (Primary Launch Market)
+    Thailand 100 Branches Q1: 5: Customer, Franchisee, Employee
+    Bangkok Metro Focus: 5: Customer, Franchisee, Corporate
+    Provincial Expansion: 4: Customer, Franchisee
+    National Coverage: 5: Customer, Franchisee, Corporate
+    
+    section Southeast Asia Expansion
+    Singapore Pilot: 4: Customer, Franchisee
+    Malaysia Entry: 4: Customer, Franchisee
+    Indonesia Launch: 4: Customer, Franchisee
+    Regional Integration: 5: Customer, Franchisee, Corporate
     
     section Greater China
     Hong Kong Launch: 4: Customer, Franchisee
     Taiwan Expansion: 4: Customer, Franchisee
     Mainland China Prep: 3: Corporate
     
-    section North America
-    West Coast Pilot: 3: Customer, Franchisee
-    Nationwide Rollout: 4: Customer, Franchisee
-    
-    section Europe
-    UK Market Entry: 3: Customer, Franchisee
-    EU Expansion: 4: Customer, Franchisee
+    section Global Markets
+    North America Entry: 3: Customer, Franchisee
+    Europe Launch: 3: Customer, Franchisee
+    Middle East Expansion: 4: Customer, Franchisee
 ```
 
 ### Customer Acquisition Metrics
 
-| Metric | Q2 2026 | Q4 2026 | Q2 2027 | Q4 2027 | Target 2029 |
-|--------|---------|---------|---------|---------|-------------|
-| **Active Franchise Locations** | 25 | 100 | 300 | 500+ | 1,000+ |
-| **Registered Customers (M)** | 0.1 | 0.5 | 2.1 | 5.0+ | 15.0+ |
-| **Daily Transactions (K)** | 10 | 100 | 500 | 1,000+ | 5,000+ |
-| **Employee Users (K)** | 1 | 5 | 15 | 25+ | 50+ |
-| **Monthly Revenue (M THB)** | 2.5 | 8.2 | 32.1 | 45.2+ | 150.0+ |
+| Metric | Q1 2026 | Q2 2026 | Q4 2026 | Q2 2027 | Q4 2027 | Target 2029 |
+|--------|---------|---------|---------|---------|---------|-------------|
+| **Active Franchise Locations** | 100 | 150 | 250 | 400 | 500+ | 1,000+ |
+| **Thailand Branches** | 100 | 120 | 150 | 200 | 250 | 400+ |
+| **Registered Customers (M)** | 0.3 | 0.6 | 1.2 | 2.8 | 5.0+ | 15.0+ |
+| **Daily Transactions (K)** | 50 | 120 | 250 | 600 | 1,000+ | 5,000+ |
+| **Employee Users (K)** | 3 | 6 | 12 | 20 | 25+ | 50+ |
+| **Monthly Revenue (M THB)** | 5.2 | 10.8 | 22.5 | 38.6 | 45.2+ | 150.0+ |
 
 ---
 
@@ -211,10 +297,12 @@ mindmap
 ### Key Differentiators by Timeline
 
 **Q1-Q2 2026: Foundation Advantage**
-- First AI-native franchise platform in market
+- Thailand-first launch with 100 branches in Q1 2026
+- First AI-native franchise platform in Southeast Asian market
 - 2026 technology stack advantage (mature AI tools)
 - 42% development productivity gain through AI assistance
-- Cloud-native architecture ready for global scale
+- Cloud-native architecture ready for regional scale
+- Local language support (Thai) from day one
 
 **Q3-Q4 2026: Experience Leadership**
 - Hyper-personalized customer experiences
@@ -253,10 +341,11 @@ pie title Revenue Distribution by Stream (2027)
 ### Revenue Model Evolution
 
 **2026 Focus: Platform Adoption**
-- Freemium model for first 25 franchises
-- Standard SaaS pricing: $500-1,500/month per location
+- Special launch pricing for first 100 Thailand franchises
+- Localized SaaS pricing: ฿15,000-45,000/month per location
 - Transaction fees: 0.5-1.5% of processed volume
-- Setup and integration fees: $10K-25K per franchise
+- Setup and integration fees: ฿300K-750K per franchise
+- Thai language support and local payment methods included
 
 **2027 Focus: Value Optimization**
 - Premium AI features: $200-500/month per location
@@ -415,14 +504,14 @@ quadrantChart
 ```mermaid
 graph LR
     subgraph "2026 Launch Strategy"
-        A[Q1: Singapore Pilot<br/>10 stores] --> B[Q2: Thailand Expansion<br/>25 stores]
-        B --> C[Q3: Regional Growth<br/>100 stores]
-        C --> D[Q4: Multi-Country<br/>150 stores]
+        A[Q1: Thailand<br/>100 stores] --> B[Q2: Thailand Scale<br/>150 stores]
+        B --> C[Q3: Regional Growth<br/>200 stores]
+        C --> D[Q4: Multi-Country<br/>250 stores]
     end
     
     subgraph "2027 Expansion Strategy"
-        E[Q1: Greater China<br/>200 stores] --> F[Q2: North America<br/>300 stores]
-        F --> G[Q3: Europe Entry<br/>400 stores]
+        E[Q1: SEA Expansion<br/>350 stores] --> F[Q2: Greater China<br/>400 stores]
+        F --> G[Q3: Global Entry<br/>450 stores]
         G --> H[Q4: Global Platform<br/>500+ stores]
     end
     
@@ -519,13 +608,13 @@ graph LR
 
 ### 5-Year Financial Forecast (THB Millions)
 
-| Year | Revenue | Gross Profit | EBITDA | Net Income | Franchise Locations |
-|------|---------|--------------|--------|------------|---------------------|
-| 2026 | 34.7 | 27.8 | (18.0) | (25.2) | 100 |
-| 2027 | 141.7 | 120.4 | 45.6 | 28.3 | 500 |
-| 2028 | 356.2 | 320.6 | 156.7 | 124.8 | 1,000 |
-| 2029 | 712.5 | 655.5 | 356.2 | 298.2 | 1,800 |
-| 2030 | 1,281.0 | 1,192.5 | 704.5 | 625.8 | 3,000 |
+| Year | Revenue | Gross Profit | EBITDA | Net Income | Franchise Locations | Thailand Branches |
+|------|---------|--------------|--------|------------|---------------------|-------------------|
+| 2026 | 52.8 | 42.2 | (12.5) | (18.6) | 250 | 150 |
+| 2027 | 168.4 | 143.1 | 58.9 | 42.1 | 500 | 250 |
+| 2028 | 412.6 | 371.3 | 185.7 | 148.6 | 1,000 | 400 |
+| 2029 | 825.2 | 759.2 | 412.6 | 346.6 | 1,800 | 600 |
+| 2030 | 1,485.4 | 1,382.4 | 817.0 | 726.4 | 3,000 | 800 |
 
 ### Key Financial Ratios
 
@@ -557,7 +646,7 @@ The Jian Cha Tea Unity Suite represents a transformational investment opportunit
 3. **Scalable Architecture**: Cloud-native design supporting global expansion
 4. **Strong Unit Economics**: 60:1 LTV/CAC ratio with 80%+ gross margins
 5. **Multiple Exit Paths**: Strategic acquisition or IPO opportunities by 2029
-6. **Market Timing**: Leveraging mature AI ecosystem with competitive advantage
+6. **Market Timing**: Thailand's digital transformation readiness with 100 branches from Q1 2026
 
 ### Expected Investor Returns
 
@@ -573,7 +662,7 @@ The convergence of AI maturity, global franchise growth, and mobile-first custom
 
 *This roadmap represents a living document that will be updated quarterly based on market feedback, technology evolution, and business performance. All financial projections are based on current market analysis and comparable company performance but should be considered forward-looking statements subject to risks and uncertainties.*
 
-**Document Version**: 1.0  
-**Last Updated**: August 25, 2025  
-**Next Review**: November 25, 2025  
+**Document Version**: 1.1  
+**Last Updated**: January 2025  
+**Next Review**: April 2025  
 **Prepared By**: Jian Cha Tea Technology Leadership Team

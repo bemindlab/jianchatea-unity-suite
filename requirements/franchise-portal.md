@@ -3,6 +3,22 @@
 ## Overview
 Web-based portal for franchise applicants and existing franchisees to manage their franchise journey from application to operations.
 
+## CTO Implementation Plan & Deliverables
+
+### Phase 0: CTO Advisory (Q4 2025)
+**Deliverables:**
+- Complete system architecture design for franchise portal
+- **Franchise Portal MVP deployment** as core advisory deliverable
+- Technical specifications and development roadmap
+- Integration strategy with main platform architecture
+
+### Phase 1: Full Implementation (Q1-Q2 2026)
+**CTO Milestone:** 100 Branches Live by Q2 2026
+- Complete franchise portal supporting Thailand's first 100 branches
+- Thai language localization and local payment integration
+- Performance targets: <100ms response time, 99.99% uptime
+- Direct integration with POS and operational systems
+
 ## User Roles
 - **Prospective Franchisee**: Individuals interested in franchise opportunities
 - **Franchisee**: Approved franchise owners
